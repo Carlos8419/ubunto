@@ -2,6 +2,6 @@
 
 #criar uma pasta
 
-mkdir -v ~/ naruto
+sudo apt-get 
 
 shutdown -h now
